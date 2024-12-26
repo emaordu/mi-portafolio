@@ -20,5 +20,6 @@ Bienvenido a mi portafolio, donde podras encontrar una coleccion de mis mejores 
 
 *MySQL
 
+Aca dejo la parte del front, que no es hecha por mi, sino por mi compañero de proyecto, pero que es util para visualizar y ver el correcto funcionamiento del back: https://github.com/emaordu/Sistema-de-gestion-de-usuarios-front
 
 

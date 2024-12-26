@@ -7,9 +7,18 @@ Bienvenido a mi portafolio, donde podras encontrar una coleccion de mis mejores 
 - **Tecnologías**:
 *Java 17
 *Spring Boot 3.3.5:
+
    -Spring Web: Para construir la API REST.
+  
    -Spring Data JPA: Para la interacción con la base de datos.
+  
    -Spring Security: Para la gestión de seguridad y autenticación.
+  
    -Spring Validation: Para validación de datos de entrada.
+  
 *JWT (JSON Web Token): Para autenticar y autorizar solicitudes.
+
 *MySQL
+
+
+

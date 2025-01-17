@@ -2,7 +2,7 @@
 Bienvenido a mi portafolio, donde podras encontrar una coleccion de mis mejores proyectos para que veas un poco de lo que se.
 
 ## 🚀 Proyectos
-### 1. [Sistema de Gestión de Usuarios](https://github.com/emaordu/Sistema-de-gestion-de-usuarios-back)
+### 1. [Sistema de Gestión de Usuarios](https://github.com/emaordu/Sistema-de-gestion-de-usuarios)
 - **Descripción**: API RESTful para gestionar usuarios con autenticación JWT.
 - **Tecnologías**:
 *Java 17

@@ -4,8 +4,11 @@ Bienvenido a mi portafolio, donde podras encontrar una coleccion de mis mejores 
 ## 🚀 Proyectos
 ### 1. [Sistema de Gestión de Usuarios](https://github.com/emaordu/Sistema-de-gestion-de-usuarios-back)
 - **Descripción**: API RESTful para gestionar usuarios con autenticación JWT.
+
 - **Tecnologías**:
+- 
 *Java 17
+
 *Spring Boot 3.3.5:
 
    -Spring Web: Para construir la API REST.
@@ -22,8 +25,11 @@ Bienvenido a mi portafolio, donde podras encontrar una coleccion de mis mejores 
 
 ### 2. [Wikipedia de libros](https://github.com/emaordu/wiki-libros)
 - **Descripción**: API RESTful para gestionar libros en una plataforma estilo Wikipedia. Los usuarios pueden buscar libros por nombre o género, agregar nuevos libros, editar detalles existentes y explorar información desde un motor de búsqueda básico.
+
 - **Tecnologías**:
+  
 *Java 17
+
 *Spring Boot 3.3.5:
 
    Spring Web: Para construir la API REST.

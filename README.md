@@ -25,11 +25,17 @@ Bienvenido a mi portafolio, donde podras encontrar una coleccion de mis mejores 
 - **Tecnologías**:
 *Java 17
 *Spring Boot 3.3.5:
+
    Spring Web: Para construir la API REST.
+  
    Spring Data JPA: Para la interacción con la base de datos usando ORM.
+  
    Spring Validation: Para la validación de datos de entrada.
+  
 *MySQL: Base de datos para almacenar los datos de los libros.
+
 *Thymeleaf: Motor de plantillas para integrar una interfaz web básica.
+
 *Bootstrap: Framework para estilizar la interfaz y hacerla responsiva.
 
 

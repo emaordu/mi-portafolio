@@ -6,18 +6,18 @@ Bienvenido a mi portafolio, donde podras encontrar una coleccion de mis mejores 
 - **Descripción**: API RESTful para gestionar usuarios con autenticación JWT.
 
 - **Tecnologías**:
-- 
+  
 *Java 17
 
 *Spring Boot 3.3.5:
 
-   -Spring Web: Para construir la API REST.
+   --Spring Web: Para construir la API REST.
+   
+   --Spring Data JPA: Para la interacción con la base de datos.
+   
+   --Spring Security: Para la gestión de seguridad y autenticación.
   
-   -Spring Data JPA: Para la interacción con la base de datos.
-  
-   -Spring Security: Para la gestión de seguridad y autenticación.
-  
-   -Spring Validation: Para validación de datos de entrada.
+   --Spring Validation: Para validación de datos de entrada.
   
 *JWT (JSON Web Token): Para autenticar y autorizar solicitudes.
 
@@ -32,11 +32,11 @@ Bienvenido a mi portafolio, donde podras encontrar una coleccion de mis mejores 
 
 *Spring Boot 3.3.5:
 
-   Spring Web: Para construir la API REST.
+   --Spring Web: Para construir la API REST.
   
-   Spring Data JPA: Para la interacción con la base de datos usando ORM.
+   --Spring Data JPA: Para la interacción con la base de datos usando ORM.
   
-   Spring Validation: Para la validación de datos de entrada.
+   --Spring Validation: Para la validación de datos de entrada.
   
 *MySQL: Base de datos para almacenar los datos de los libros.
 
